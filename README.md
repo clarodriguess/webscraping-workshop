@@ -4,6 +4,9 @@ Scraper desenvolvido durante o workshop **"Web Scraping com Python para análise
 
 O projeto coleta automaticamente extratos de contratos do **Ministério da Educação (MEC)** relacionados à aquisição de **material didático/escolar** publicados no [Diário Oficial da União](https://in.gov.br) em 2025.
 
+## 📸 Evento
+<img src="assets/evento-pyladies-sp.jpg" alt="Open Data Day — PyLadies SP" width="550">
+
 ---
 
 ## 🎯 Objetivo
